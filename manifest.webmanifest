@@ -1,0 +1,12 @@
+{
+  "name": "Birthday Surprise",
+  "short_name": "Birthday Surprise",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff4ee",
+  "theme_color": "#f4a6bb",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
